@@ -2,6 +2,7 @@
 <html><head><META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8"><title>Auction Resource - Auction Resource</title>
 <meta NAME="Keywords" Content="Auction Resource"><meta NAME="Description" Content="Auction Resource - Your #1 Source for Finding Seized, Surplus and Unclaimed Property From the U.S. Marshalls, FBI, IRS, DEA, U.S. Customs as well as 1000's of Federal, State and Local Agencies"><link type="text/css" rel="stylesheet" href="http://auctionresource.org/xsp_styles.css"><META name="robots" content="noindex, nofollow"/><link rel="shortcut icon" href="./favicon.ico">
 
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js"></script>
 <script src="http://yui.yahooapis.com/3.4.0/build/yui/yui-min.js"></script>
 <link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/combo?2.9.0/build/progressbar/assets/skins/sam/progressbar.css">
 <link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/2.9.0/build/button/assets/skins/sam/button.css">
